@@ -8,6 +8,6 @@ Bidscraper uses Selenium to log into the 3 FTP websites and navigate to the 6 di
 
 The script then organizes all the spreadsheets into one, deletes duplicate listings, and marks the projects with flags that identify each potential product that could be needed for each project, because it is likely for a project to require multiply products that they sell. 
 
-I setup a computer in the office to run this script every morning just before 8:00am and then have the company's filemaker database import the organized spreadsheet into a leads table with links to every project posting on all the ftp sites.  
+This script ran every morning just before 8:00am and the company's filemaker database imported the organized spreadsheet into a leads table with links to every project posting on all the ftp sites.  
 
 
